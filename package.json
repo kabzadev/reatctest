@@ -7,5 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "keith kabza",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kabzadev/reatctest.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/kabzadev/reatctest/issues"
+  },
+  "homepage": "https://github.com/kabzadev/reatctest#readme"
 }
